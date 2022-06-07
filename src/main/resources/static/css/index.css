@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+.select-All{
+    position: fixed;
+    right: -300px;
+    top: 180px;
+    height: 50vh;
+}
